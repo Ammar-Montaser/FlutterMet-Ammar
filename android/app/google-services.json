@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126007002767",
+    "project_id": "flutter-met-ammar-11194s",
+    "storage_bucket": "flutter-met-ammar-11194s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126007002767:android:f84f92963ebb3536d412fa",
+        "android_client_info": {
+          "package_name": "com.mycompany.fluttermetammar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTNGMbVEYjnUMZonc-a9tqB_d-dOK6QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
